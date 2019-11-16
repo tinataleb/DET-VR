@@ -24,7 +24,6 @@ ScriptsOnlyBuild:
     - OVRScreenFade
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
-    - UnityEditor.TestTools.TestRunner.TestListCacheData
   sceneClasses:
     Assets/Scenes/Focus1.unity:
     - Class: 1
@@ -62,43 +61,43 @@ ScriptsOnlyBuild:
     - Class: 109
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9826}
+      Script: {instanceID: 9838}
     - Class: 114
-      Script: {instanceID: 9914}
+      Script: {instanceID: 9928}
     - Class: 114
-      Script: {instanceID: 10066}
+      Script: {instanceID: 10080}
     - Class: 114
-      Script: {instanceID: 10202}
+      Script: {instanceID: 10216}
     - Class: 114
-      Script: {instanceID: 10290}
+      Script: {instanceID: 10304}
     - Class: 114
-      Script: {instanceID: 10404}
+      Script: {instanceID: 10418}
     - Class: 114
-      Script: {instanceID: 10614}
+      Script: {instanceID: 10628}
     - Class: 114
-      Script: {instanceID: 10658}
+      Script: {instanceID: 10672}
     - Class: 114
-      Script: {instanceID: 10838}
+      Script: {instanceID: 10852}
     - Class: 114
-      Script: {instanceID: 10988}
+      Script: {instanceID: 11004}
     - Class: 114
-      Script: {instanceID: 11108}
+      Script: {instanceID: 11124}
     - Class: 114
-      Script: {instanceID: 11278}
+      Script: {instanceID: 11294}
     - Class: 114
-      Script: {instanceID: 11578}
+      Script: {instanceID: 11598}
     - Class: 114
-      Script: {instanceID: 11626}
+      Script: {instanceID: 11648}
     - Class: 114
-      Script: {instanceID: 11672}
+      Script: {instanceID: 11694}
     - Class: 114
-      Script: {instanceID: 12068}
+      Script: {instanceID: 12092}
     - Class: 114
-      Script: {instanceID: 12144}
+      Script: {instanceID: 12170}
     - Class: 114
-      Script: {instanceID: 12166}
+      Script: {instanceID: 12192}
     - Class: 114
-      Script: {instanceID: 12476}
+      Script: {instanceID: 12502}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -174,12 +173,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: AudioPlayableAsset
-  - hash:
-      serializedVersion: 2
-      Hash: 99d999018d3c1c5fb2bea275f7609d4d
-    assemblyName: Oculus.VR.dll
-    namespaceName: 
-    className: OVRMixedRealityCaptureSettings
   - hash:
       serializedVersion: 2
       Hash: 626925ef558787b2d85c809198164d19
@@ -2031,4 +2024,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/Focus1.unity
-  playerPath: C:/Users/Doug/Downloads/DET2019_QuickStart/DET2019_QuickStart/DET2019/Focus2.apk
+  playerPath: /Users/tinataleb/cal/DET/DET-VR/focus/savethis.apk

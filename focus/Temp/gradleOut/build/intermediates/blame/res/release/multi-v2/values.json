@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Doug\\Downloads\\DET2019_QuickStart\\DET2019_QuickStart\\DET2019\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "/Users/tinataleb/cal/DET/DET-VR/focus/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Doug\\Downloads\\DET2019_QuickStart\\DET2019_QuickStart\\DET2019\\Temp\\gradleOut\\src\\main\\res\\values\\styles.xml",
+                    "source": "/Users/tinataleb/cal/DET/DET-VR/focus/Temp/gradleOut/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "53,96",
+                        "endColumns": "42,65",
+                        "endOffsets": "93,159"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,100",
+                        "endColumns": "44,67",
+                        "endOffsets": "95,163"
+                    }
+                },
+                {
+                    "source": "/Users/tinataleb/cal/DET/DET-VR/focus/Temp/gradleOut/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "5,2,7",
                         "startColumns": "0,0,0",
@@ -23,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Doug\\.gradle\\caches\\transforms-2\\files-2.1\\44e994644f7ec7f809af216b5590af30\\res\\values\\values.xml",
+                    "source": "/Users/tinataleb/.gradle/caches/transforms-2/files-2.1/cc2766b485ed7c84a1dd35acc0990b2d/res/values/values.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "2",
@@ -37,23 +54,6 @@
                         "startOffsets": "168",
                         "endColumns": "43",
                         "endOffsets": "207"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Doug\\Downloads\\DET2019_QuickStart\\DET2019_QuickStart\\DET2019\\Temp\\gradleOut\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "2,2",
-                        "startOffsets": "55,99",
-                        "endColumns": "42,65",
-                        "endOffsets": "95,162"
-                    },
-                    "to": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,100",
-                        "endColumns": "44,67",
-                        "endOffsets": "95,163"
                     }
                 }
             ]

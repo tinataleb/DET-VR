@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C79DE1C0-781E-E805-B50C-2E78972AD647}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Oculus/VR/Editor/OVREngineConfigurationUpdater.cs">
+    <Files>
+      <File FileName="Assets/Oculus/VR/Editor/OVREngineConfigurationUpdater.cs" Line="274" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="focus" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Oculus" expanded="True">
+                <Node name="VR" expanded="True">
+                  <Node name="Editor" expanded="True">
+                    <Node name="OVREngineConfigurationUpdater.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f0b2714e-5c36-4202-add4-782d2c4f9553" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

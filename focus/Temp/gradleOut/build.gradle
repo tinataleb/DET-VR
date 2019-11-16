@@ -26,8 +26,8 @@ apply plugin: 'com.android.application'
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation(name: 'audio360', ext:'aar')
     implementation(name: 'OVRPlugin', ext:'aar')
+    implementation(name: 'audio360', ext:'aar')
 }
 
 android {

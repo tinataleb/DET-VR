@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Doug\\Downloads\\DET2019_QuickStart\\DET2019_QuickStart\\DET2019\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "/Users/tinataleb/cal/DET/DET-VR/focus/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Doug\\Downloads\\DET2019_QuickStart\\DET2019_QuickStart\\DET2019\\Temp\\gradleOut\\src\\main\\res\\values-v21\\styles.xml",
+                    "source": "/Users/tinataleb/cal/DET/DET-VR/focus/Temp/gradleOut/src/main/res/values-v21/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "0",

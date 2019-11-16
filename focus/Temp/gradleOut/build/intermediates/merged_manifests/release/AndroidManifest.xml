@@ -16,8 +16,6 @@
         android:smallScreens="true"
         android:xlargeScreens="true" />
 
-    <supports-gl-texture android:name="GL_KHR_texture_compression_astc_ldr" />
-
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
     <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
@@ -61,7 +59,7 @@
 
         <meta-data
             android:name="unity.build-id"
-            android:value="d051b674-5394-4faa-b959-8b9153c6b0bc" />
+            android:value="1e845e75-0552-4bce-9ebb-f3bbfd84baca" />
         <meta-data
             android:name="unity.splash-mode"
             android:value="0" />
